@@ -8,4 +8,4 @@ Fanowskie spolszczenie do Clickteam Fusion 2.5 stworzone przez **Fimzel**.
 
 ## Instalacja
 
-Instrukcja instalacji spolszczenia oraz plik do pobrania są dostępne na powyższej oficjalnej stronie internetowej.
+Instrukcja instalacji spolszczenia dostępna na powyższej oficjalnej stronie internetowej. Pliki spolszczenia można pobrać zarówno ze strony jak i tutaj.
