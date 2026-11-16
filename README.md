@@ -1,2 +1,11 @@
-# Spolszczenie-Clickteam-Fusion
-Fanowskie spolszczenie do Clickteam Fusion 2.5 stworzone przez Fimzel. Strona projektu, gdzie zawarta jest intrukcja instalacji, gdzie można pobrać również najnowszą wersję i zgłaszać błędy: spolszczenieclickteamfusion.pl
+# Spolszczenie Clickteam Fusion 2.5
+
+Fanowskie spolszczenie do Clickteam Fusion 2.5 stworzone przez **Fimzel**.
+
+* **Strona projektu, instrukcja instalacji, najnowsza wersja i zgłaszanie błędów:** https://spolszczenieclickteamfusion.pl
+
+---
+
+## Instalacja
+
+Instrukcja instalacji spolszczenia oraz plik do pobrania są dostępne bezpośrednio na powyższej oficjalnej stronie internetowej.
