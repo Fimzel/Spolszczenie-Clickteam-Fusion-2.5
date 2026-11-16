@@ -1,4 +1,4 @@
-# Spolszczenie Clickteam Fusion 2.5
+# Spolszczenie Clickteam Fusion 2.5 (2026)
 
 Fanowskie spolszczenie do Clickteam Fusion 2.5 stworzone przez **Fimzel**.
 
